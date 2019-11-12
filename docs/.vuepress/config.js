@@ -1,7 +1,7 @@
 module.exports = {
     title: '文档管理',
     description: '呵呵博客',
-    repo: 'https://github.com/zhoujianbang/vp.git',
+    repo: 'https://github.com/zhoujianbang/vip.io.git',
     base: '/vp/',
     head: [
         ['link', {
